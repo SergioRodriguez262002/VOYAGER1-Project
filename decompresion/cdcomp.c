@@ -45,6 +45,9 @@
 /*                                                                  */
 /********************************************************************/
 
+
+/* Sergios Notes: this will be ported and edited */
+
 #include <stdio.h>
 
 #define TRUE                  1
